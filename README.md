@@ -17,7 +17,7 @@
 
 <div  align="center">
 
-  ![DoWhile 2021](web/src/assets/[NLW Heat - Mission_ Impulse] DoWhile2021 (Community).png)
+  ![DoWhile 2021](web/src/assets/DoWhile2021.png)
 
 </div>
 
